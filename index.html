@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport", content="width=device-width, initial-scale=1.0">
+        <title>Pong</title>
+        <link rel="stylesheet" href="pong.css">
+        <script src="pong.js"></script>
+    </head>
+
+    <body>
+        <canvas id="board"></canvas>
+    </body>
+</html>
